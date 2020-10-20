@@ -1,2 +1,2 @@
 # Monopoly
-Game of monopoly made in C++.
+Game of monopoly made in Turbo C++.
